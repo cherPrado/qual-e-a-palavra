@@ -96,16 +96,15 @@ function App() {
   }, [guesses])
 
   useEffect(() => {
-
-    const uniqueLetters = [... new Set(letters)]
+    const uniqueLetters = [...new Set(letters)];
     
-    if(guessedLetters.length === uniqueLetters.length){
-      setScore((actualScore) => actualScore += 100)
-
-      startGame()
+    if (guessedLetters.length === uniqueLetters.length && gameStage !== 'start') {
+      setScore((actualScore) => actualScore += 100);
+      console.log('teste');
+      startGame();
     }
-
-  }, [guessedLetters, letters, startGame])
+  }, [guessedLetters, letters, startGame, gameStage]);
+  
 
   const retry = () => {
     setScore(0)
