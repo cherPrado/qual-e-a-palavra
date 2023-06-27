@@ -2,7 +2,7 @@
 
 ## 💻 Sobre
 
-Projeto desenvolvido em React com o objetivo de consolidar meus conhecimentos no Framework, você pode conferir e jogar através do link!! https://qual-e-a-palavra-jade.vercel.app/
+Projeto desenvolvido em React com o objetivo de consolidar meus conhecimentos no Framework, você pode conferir e jogar através do link! https://qual-e-a-palavra-jade.vercel.app/
 
 
 <h3 align="center">
