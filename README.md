@@ -19,22 +19,22 @@ Projeto desenvolvido em React com o objetivo de consolidar meus conhecimentos no
 
 ## 🚧 Projeto
 
-<h3 align="center">Página princiapl
+<h3 align="center">
   <p></p>
   <img src="./.github/tela1.png" width="750px"/>	
 </h3>
 
-<h3 align="center">Acessando vaga
+<h3 align="center">
   <p></p>
   <img src="./.github/tela2.png" width="750px"/>	
 </h3>
 
-<h3 align="center">Cadastrando vaga
+<h3 align="center">
   <p></p>
   <img src="./.github/tela3.png" width="750px"/>	
 </h3>
 
-<h3 align="center">Pesquisando vaga
+<h3 align="center">
   <p></p>
   <img src="./.github/tela4.png" width="750px"/>	
 </h3>
