@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# Jogo - Qual é a palavra?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 💻 Sobre
 
-## Available Scripts
+Projeto desenvolvido em React com o objetivo de consolidar meus conhecimentos no Framework, você pode conferir e jogar através do link!! https://qual-e-a-palavra-jade.vercel.app/
 
-In the project directory, you can run:
 
-### `npm start`
+<h3 align="center">
+⚙️ Tecnologias utilizadas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p>&nbsp;</p>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</h3>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚧 Projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h3 align="center">Página princiapl
+  <p></p>
+  <img src="./.github/tela1.png" width="750px"/>	
+</h3>
 
-### `npm run build`
+<h3 align="center">Acessando vaga
+  <p></p>
+  <img src="./.github/tela2.png" width="750px"/>	
+</h3>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h3 align="center">Cadastrando vaga
+  <p></p>
+  <img src="./.github/tela3.png" width="750px"/>	
+</h3>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h3 align="center">Pesquisando vaga
+  <p></p>
+  <img src="./.github/tela4.png" width="750px"/>	
+</h3>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ✒️ Autor
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+| [<img src="https://avatars.githubusercontent.com/u/112346259?v=4" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
+| :--------------------------------------------------------------------------------------------------------------------------------------------: |
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<h2 >Entre em contato 🤙🏽</h2>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align="center">
+<a href="https://www.linkedin.com/in/cherlau-prado/" target="_blank"><img src="https://img.shields.io/badge/Cherlau%20Prado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+<a href="cherlaufilho@discente.ufg.br" target="_blank"><img src="https://img.shields.io/badge/cherlaufilho@discente.ufg.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
+</div>
